@@ -1,0 +1,20 @@
+-Got the idea from a youtube channel where rpg/trading "Cards" display information and have a "zoom in" action when the mouse scrolls over one of the cards.
+Also added a "holo" effect that disappears when card is moused over.
+
+-I choose the theme of cards describing characters from my favorite fighting game, Tekken 7.
+
+-Each card contains the name and pre-fight quote of a character, complete with a brief description, their first appearnance in the Tekken franchise, 
+character difficulty (does this character have simple moves that are easy to learn, or will a player have to spend several hours practicing before they can 
+use said character properly?) and Rank (how viable is this character in a tournament setting; skill needed to use character needed, damage output, etc.)
+
+-Note: Unfortunately, there are few high definition images from the video game Tekken 7 available for free, hence the lack of characters.
+
+Plas for this pageL
+-More characters.
+-Different mouseover effects
+-A "Rolodex" efect that scrolls through character cards.
+-A more in-depth character description "window" opens on clicking a card.
+-Adding Professional Tekken players to their corrosponding characters.
+-Add event listener to play pre-fight quote audio on click the card.
+-Adding GIFs of character animations within the character cards.
+-News and information section on game updates
