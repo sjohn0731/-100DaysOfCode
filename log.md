@@ -19,4 +19,6 @@ https://www.youtube.com/watch?v=fSi5uvXqT4s&list=PLQh6rb1mrE_Ywz-LGD9DQb1_ofqn8X
 
 **Link to work:**
 Last lesson completed: https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-gradual-css-linear-gradient
-3D RGB Text Animation with HTML/CSS: https://www.youtube.com/watch?v=pMS99DLuFDY
+3D RGB Text Animation with HTML/CSS guide: https://www.youtube.com/watch?v=pMS99DLuFDY
+Finished product: https://github.com/sjohn0731/-100DaysOfCode/tree/master/3D%20RGB%20Text%20Animation%20with%20HTML%20CSS
+Since I didn't post the link to my Day 0 project: https://github.com/sjohn0731/-100DaysOfCode/tree/master/Tekken%20Character%20Profiles
