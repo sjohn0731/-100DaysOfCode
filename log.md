@@ -22,3 +22,6 @@ Last lesson completed: https://www.freecodecamp.org/learn/responsive-web-design/
 3D RGB Text Animation with HTML/CSS guide: https://www.youtube.com/watch?v=pMS99DLuFDY
 Finished product: https://github.com/sjohn0731/-100DaysOfCode/tree/master/3D%20RGB%20Text%20Animation%20with%20HTML%20CSS
 Since I didn't post the link to my Day 0 project: https://github.com/sjohn0731/-100DaysOfCode/tree/master/Tekken%20Character%20Profiles
+
+### Day 2: January 5, 2020
+**Today's Progress:** No mini projects today, just working on FreeCodeCamp and getting ready for classes to begin this week.
