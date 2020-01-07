@@ -25,3 +25,8 @@ Since I didn't post the link to my Day 0 project: https://github.com/sjohn0731/-
 
 ### Day 2: January 5, 2020
 **Today's Progress:** No mini projects today, just working on FreeCodeCamp and getting ready for classes to begin this week.
+
+
+### Day 3: January 6, 2020
+**Today's Progress:** Classwork on first day of winter semester took up most of my time, but I was able to get some exercises done from FreeCodeCamp.
+I actually finished the Applied Visual Design section of FreeCodeCamp! It doesn't seem like much to me, but my family always tells me to celebrate my small victories.
