@@ -30,3 +30,6 @@ Since I didn't post the link to my Day 0 project: https://github.com/sjohn0731/-
 ### Day 3: January 6, 2020
 **Today's Progress:** Classwork on first day of winter semester took up most of my time, but I was able to get some exercises done from FreeCodeCamp.
 I actually finished the Applied Visual Design section of FreeCodeCamp! It doesn't seem like much to me, but my family always tells me to celebrate my small victories.
+
+### Day 4: January 7, 2020
+**Today's Progress:** Today was not the most productive for me, in terms of coding; very little got done today, outside of FreeCodeCamp exercises and browsing project ideas on Youtube and Udemy. I think I need to do at least one mini project a week in a language I'm learning in class (PHP and Python) or languages that I need to practice (HTML, CSS, JavaScript).
