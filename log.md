@@ -33,3 +33,6 @@ I actually finished the Applied Visual Design section of FreeCodeCamp! It doesn'
 
 ### Day 4: January 7, 2020
 **Today's Progress:** Today was not the most productive for me, in terms of coding; very little got done today, outside of FreeCodeCamp exercises and browsing project ideas on Youtube and Udemy. I think I need to do at least one mini project a week in a language I'm learning in class (PHP and Python) or languages that I need to practice (HTML, CSS, JavaScript).
+
+### Day 5: January 8, 2020
+**Today's Progress:** Spent most of the day attempting to implement PHP and XAMMP on my computer.  There is a project I'm curious about; a social media bot that likes a certain amount of posts from a specific hashtag.  Most social media platforms are pretty strict about bots, so I will keep it small (10 likes or so, if possible). Will also attend a Meetup tomorrow about learning the basics of Angular.js and try a project that will take less than two hours to get working.  
