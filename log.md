@@ -36,3 +36,10 @@ I actually finished the Applied Visual Design section of FreeCodeCamp! It doesn'
 
 ### Day 5: January 8, 2020
 **Today's Progress:** Spent most of the day attempting to implement PHP and XAMMP on my computer.  There is a project I'm curious about; a social media bot that likes a certain amount of posts from a specific hashtag.  Most social media platforms are pretty strict about bots, so I will keep it small (10 likes or so, if possible). Will also attend a Meetup tomorrow about learning the basics of Angular.js and try a project that will take less than two hours to get working.  
+
+### Day 6: January 9, 2020
+**Today's Progress:** The Meetup for Angular this morning didn't work, so I decided to work with Angular projects on YouTube, instead. I found a new channel to help learn the basics of nearly any language/framework/etc; Traversy Media. I learned such a simple way to get into my IDE for any project (VS Code) from the command line (cd FILENAME   code .    That's it!). That tip alone will help me a lot. Will work through the channel's "Angular Crash Course" and finish the course's project (to-do list).
+Edit: Not even 1/3rd of the way through the video, I can get the first component I'm editing to work correctly. Will spend some time on Google and social media (Instagram) to look for the answer.
+**Link to work:**
+Angular Crash Couse- Traversy Media: https://www.youtube.com/watch?v=Fdf5aTYRW0E
+I will come back and upload my progress when I can clone my files onto GitHub.
