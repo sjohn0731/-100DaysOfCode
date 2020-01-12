@@ -48,3 +48,7 @@ I will come back and upload my progress when I can clone my files onto GitHub.
 **Today's Progress:** Today was difficult, but I learned a few concepts for both Python and PHP:
 Python: Learned how to round floats using the format() function.
 PHP: After seeing the structure of if/else statements in PHP, patterns in built-in functions are becoming clearer, faster. It doesn't seem like much, but small victories add up.
+
+### Day 8: January 11, 2020
+**Today's Progress:** Finally through the first week of #100DaysOfCode! And I finsihed the Applied Accessibility and Responsive Web Design Principles sections of FreeCodeCamp!
+
